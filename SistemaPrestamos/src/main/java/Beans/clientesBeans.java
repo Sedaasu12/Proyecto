@@ -9,7 +9,7 @@ public class clientesBeans {
 	private String dni;
 	private Date fecha_nacimiento;
 	private String direccion;
-	
+	private String ajssjada;
 	 
 	 
 	public clientesBeans() {
